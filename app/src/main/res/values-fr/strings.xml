@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LecteurBBCNews</string>
+    <string name="load_news">Charger les nouvelles</string>
+    <string name="read_more">Lire la suite</string>
+    <string name="failed_to_load">Échec du chargement des nouvelles</string>
+</resources>
